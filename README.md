@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/41c07be3-1e4c-4560-b40d-d19625f8183f" /><img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/35d375c6-2a46-489f-8cf4-7667891d46aa" /><img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/0f112c0b-f194-493b-b03c-fdb4d88452ee" />
+<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/0f112c0b-f194-493b-b03c-fdb4d88452ee" />
 Method GET
 
 <img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/af11b462-2046-471a-9c52-92455be8ae6a" />
